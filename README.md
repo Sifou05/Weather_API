@@ -1,1 +1,1 @@
-# GitHub-User-Activity
+# GitHub-Weather-API
